@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/d_raylib_playground
+d_raylib_playground.so
+d_raylib_playground.dylib
+d_raylib_playground.dll
+d_raylib_playground.a
+d_raylib_playground.lib
+d_raylib_playground-test-*
+*.exe
+*.o
+*.obj
+*.lst

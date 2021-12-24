@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"andrea"
+	],
+	"copyright": "Copyright © 2021, andrea",
+	"dependencies": {
+		"raylib-d": "~>4.0.0"
+	},
+	"libs": ["raylib"],
+	"description": "A minimal D application.",
+	"license": "MIT",
+	"name": "d_raylib_playground"
+}
